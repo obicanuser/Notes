@@ -1,0 +1,12 @@
+If you're wondering how hackers get in, there are 3 ways. 
+
+First is if you leaked your IP, they connect to RDP port 3389, enter username and password when prompted or exploit missconfigured/unpatched RDP service.
+2nd way is scanning your ports to find out whats listening, then maybe connecting to one of open shares.
+3rd way is by making you download and execute malware, by a masked link or infected email, which will then use something builtin to phone home, like powershell.
+
+Protection is pretty easy. You should download and install Simplewall from github, enable filters, drop whatever you were doing, and wait for firewall prompts.
+If something like powershell makes a connection with all your softwares closed, make a user rule to block that ip. It can have multiple ways of phoning home, so stay patient for at least an hour.
+That solves phoning home. To resolve incoming rdp, you should block incoming connections to local port 3389, which is rdp port.
+To resolve hackers accessing your shares, you need to block incoming connections to samba, or smb for short, on local port 445.
+
+Regarding what exactly phoned home, I suggest enabling logs in simplewall, then find out what called powershell to phone home and delete it.
