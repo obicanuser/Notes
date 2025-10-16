@@ -12,3 +12,5 @@ To resolve hackers accessing your shares, you need to block incoming connections
 Regarding what exactly phoned home, I suggest enabling logs in simplewall, then find out what called powershell to phone home and delete it.
 
 Another thing hackers can connect to, is port 22, which is ssh. Another thing is telnet, which is port 23. Another thing is ftp, on ports 20-21
+
+You also may want to close ports 135-139
