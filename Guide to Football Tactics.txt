@@ -47,7 +47,14 @@ e) counter = MC
 f) defensive = AMC
 g) contain = ST
 
-6) Notes
+6) How to play if in England:
+
+a) Premier and Championship: 4-4-1-1 2DM Fluid counter
+b) League 1 and 2: 4-2-3-1 Wide Flexible control
+c) Vanarama Premier + N/S: 4-4-2 Structured control
+d) Amateur leagues: 5-5-0 Highly structured standard
+
+7) Notes
 
 a) More fluid and more agressive will yield better results, but if mentality is higher than fluidity, players will get cards or get injured.
 b) More fluid and more agressive will tire out players before match is over. You should switch to defense at end of match and replace most tired players at around 60th min.
@@ -55,9 +62,8 @@ c) Attacking mentality is played at high tempo, meaning players don't dwell on t
 The only way to score is by stretching opposition to create space. Defending in more agressive mentalities is done by starting on the ball earlier. 
 d) Defensive mentality is played so you nick the ball, or start at attacker at last possible moment, and initiate counter. You run with ball till you are in front of their goal. 
 If counter fails, you contain posession in front of their goal. Part of defensive mentality is keeping ball away from your goal.
-e) So, ideally, you wanna play 4231 Wide flexible control
 
-7) Player responsibilities
+8) Player responsibilities
 
 a) Very fluid
 
