@@ -1,10 +1,10 @@
 1. Set fluidity depending on number of defenders (CB, FB, SW, DM, WB)
 
-a) 3 defenders = very fluid
-b) 4 defenders = fluid
+a) 3 defenders = highly structured
+b) 4 defenders = structured
 c) 5 defenders = flexible
-d) 6 defenders = structured
-e) 7 defenders = highly structured
+d) 6 defenders = fluid
+e) 7 defenders = very fluid
 
 2. Set mentality depending on number of attackers (W, AMC, ST)
 
