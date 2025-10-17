@@ -1,18 +1,18 @@
-1. Set mentality depending on number of defenders (CB, FB, SW, DM, WB)
+1. Set fluidity depending on number of defenders (CB, FB, SW, DM, WB)
 
-a) 3 defenders = attacking
-b) 4 defenders = control
-c) 5 defenders = standard
-d) 6 defenders = counter
-e) 7 defenders = defensive
+a) 3 defenders = very fluid
+b) 4 defenders = fluid
+c) 5 defenders = flexible
+d) 6 defenders = structured
+e) 7 defenders = highly structured
 
-2. Set fluidity on depending on horizontal lines missing in formation (don't forget SW):
+2. Set mentality depending on number of attackers (W, AMC, ST)
 
-a) 0 lines missing = very fluid
-b) 1 line missing = fluid
-c) 2 lines missing = flexible
-d) 3 lines missing = structured
-e) 4 lines missing = highly structured
+a) 4 attackers = attacking
+b) 3 attackers = control
+c) 2 attackers = standard
+d) 1 attacker = counter
+e) 0 attackers = defensive
 
 3. Fluidity meaning:
 
@@ -47,14 +47,7 @@ e) counter = MC
 f) defensive = AMC
 g) contain = ST
 
-6) How to play if in England:
-
-a) Premier and Championship: 4-4-1-1 2DM Fluid counter
-b) League 1 and 2: 4-2-3-1 Wide Flexible control
-c) Vanarama Premier + N/S: 4-4-2 Structured control
-d) Amateur leagues: 5-5-0 Highly structured standard
-
-7) Notes
+6) Notes
 
 a) More fluid and more agressive will yield better results, but if mentality is higher than fluidity, players will get cards or get injured.
 b) More fluid and more agressive will tire out players before match is over. You should switch to defense at end of match and replace most tired players at around 60th min.
@@ -63,7 +56,7 @@ The only way to score is by stretching opposition to create space. Defending in 
 d) Defensive mentality is played so you nick the ball, or start at attacker at last possible moment, and initiate counter. You run with ball till you are in front of their goal. 
 If counter fails, you contain posession in front of their goal. Part of defensive mentality is keeping ball away from your goal.
 
-8) Player responsibilities
+7) Player responsibilities
 
 a) Very fluid
 
