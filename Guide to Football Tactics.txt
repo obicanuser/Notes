@@ -8,11 +8,11 @@ e) 7 defenders = defensive
 
 2. Set fluidity on depending on horizontal lines missing in formation (don't forget SW):
 
-a) 0 lines missing = highly structured
-b) 1 line missing = structured
+a) 0 lines missing = very fluid
+b) 1 line missing = fluid
 c) 2 lines missing = flexible
-d) 3 lines missing = fluid
-e) 4 lines missing = very fluid
+d) 3 lines missing = structured
+e) 4 lines missing = highly structured
 
 3. Fluidity meaning:
 
