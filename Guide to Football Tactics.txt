@@ -8,9 +8,9 @@ e) 6 midfielders = very fluid
 
 2. Set mentality depending on triangles in formation
 
-a) MC = attacking
+a) DM + MC + AMC = attacking
 b) DM + MC = control
-c) DM + MC + AMC = standard
+c) MC = standard
 d) MC + AMC = counter
 e) DM + AMC = defensive
 
