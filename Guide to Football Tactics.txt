@@ -1,18 +1,18 @@
-1. Set fluidity depending on number of defenders (CB, FB, SW, DM, WB)
+1. Set fluidity depending on number of midfielders (DM, WB, CM, WM, W, AMC)
 
-a) 3 defenders = highly structured
-b) 4 defenders = structured
-c) 5 defenders = flexible
-d) 6 defenders = fluid
-e) 7 defenders = very fluid
+a) 2 midfielders = very fluid
+b) 3 midfielders = fluid
+c) 4 midfielders = flexible
+d) 5 midfielders = structured
+e) 6 midfielders = highly structured
 
-2. Set mentality depending on number of attackers (W, AMC, ST)
+2. Set mentality depending on triangles in formation
 
-a) 4 attackers = attacking
-b) 3 attackers = control
-c) 2 attackers = standard
-d) 1 attacker = counter
-e) 0 attackers = defensive
+a) DM + AMC = attacking
+b) MC + AMC = control
+c) DM + MC + AMC = standard
+d) DM + MC = counter
+e) MC = defensive
 
 3. Fluidity meaning:
 
@@ -24,11 +24,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) highly structured = 0-1 support duties
-b) structured = 2-3 support duties
+a) highly structured = 8-9 support duties
+b) structured = 6-7 support duties
 c) flexible = 4-5 support duties
-d) fluid = 6-7 support duties
-e) very fluid = 8-9 support duties
+d) fluid = 2-3 support duties
+e) very fluid = 0-1 support duties
 
 5. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot.
 However, the opposite will be your weak spot. This is useful if you want a group of players or a single player to excel for selling:
