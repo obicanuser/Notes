@@ -8,11 +8,11 @@ e) 6 midfielders = very fluid
 
 2. Set mentality depending on triangles in formation
 
-a) MC = attacking
-b) DM + MC = control
+a) DM + AMC = attacking
+b) MC + AMC = control
 c) DM + MC + AMC = standard
-d) MC + AMC = counter
-e) DM + AMC = defensive
+d) DM + MC = counter
+e) MC = defensive
 
 3. Fluidity meaning:
 
