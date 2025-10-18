@@ -1,18 +1,18 @@
-1. Set fluidity depending on number of midfielders (DM, WB, CM, WM, W, AMC)
+1. Set mentality depending horizontal lines missing in formation (don't forget SW)
 
-a) 2 midfielders = very fluid
-b) 3 midfielders = fluid
-c) 4 midfielders = flexible
-d) 5 midfielders = structured
-e) 6 midfielders = highly structured
+a) 0 lines missing = defensive
+b) 1 line missing = counter
+c) 2 lines missing = standard
+d) 3 lines missing = control
+e) 4 lines missing = atacking
 
-2. Set mentality depending on triangles in formation
+2. Set fluidity depending on triangles in formation
 
-a) DM + AMC = attacking
-b) MC + AMC = control
-c) DM + MC + AMC = standard
-d) DM + MC = counter
-e) MC = defensive
+a) DM + AMC = highly structured
+b) DM + MC = structured
+c) DM + MC + AMC = flexible
+d) MC + AMC = fluid
+e) MC = very fluid
 
 3. Fluidity meaning:
 
