@@ -1,10 +1,10 @@
 1. Set mentality depending horizontal lines missing in formation (don't forget SW)
 
-a) 0 lines missing = defensive
-b) 1 line missing = counter
+a) 0 lines missing = atacking
+b) 1 line missing = control
 c) 2 lines missing = standard
-d) 3 lines missing = control
-e) 4 lines missing = atacking
+d) 3 lines missing = counter
+e) 4 lines missing = defensive
 
 2. Set fluidity depending on triangles in formation
 
