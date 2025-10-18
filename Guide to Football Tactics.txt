@@ -1,10 +1,10 @@
 1. Set fluidity depending on number of midfielders (DM, WB, CM, WM, W, AMC)
 
-a) 2 midfielders = highly structured
-b) 3 midfielders = structured
+a) 2 midfielders = very fluid
+b) 3 midfielders = fluid
 c) 4 midfielders = flexible
-d) 5 midfielders = fluid
-e) 6 midfielders = very fluid
+d) 5 midfielders = structured
+e) 6 midfielders = highly structured
 
 2. Set mentality depending on triangles in formation
 
