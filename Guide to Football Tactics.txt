@@ -24,11 +24,11 @@ e) very fluid = players can bypass role and duty and mentality
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
-a) highly structured = 8-9 support duties
-b) structured = 6-7 support duties
+a) highly structured = 0-1 support duties
+b) structured = 2-3 support duties
 c) flexible = 4-5 support duties
-d) fluid = 2-3 support duties
-e) very fluid = 0-1 support duties
+d) fluid = 6-7 support duties
+e) very fluid = 8-9 support duties
 
 5. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot.
 However, the opposite will be your weak spot. This is useful if you want a group of players or a single player to excel for selling:
