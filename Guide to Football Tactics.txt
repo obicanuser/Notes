@@ -1,18 +1,20 @@
 1. Set mentality depending on number of attackers (W, AMC, ST)
 
-a) 0 attackers = atacking
-b) 1 attackers = control
-c) 2 attackers = standard
-d) 3 attackers = counter
-e) 4 attackers = defensive
+a) 0 attackers = contain
+b) 1 attackers = defensive
+c) 2 attackers = counter
+d) 3 attackers = standard
+e) 4 attackers = control
+f) 5 attackers = atacking
+g) 6 attackers = pverload
 
 2. Set fluidity depending on horizontal lines missing in formation (Don't forget SW)
 
-a) 0 lines missing = highly structured
-b) 1 line missing = structured
+a) 0 lines missing = very fluid
+b) 1 line missing = fluid
 c) 2 lines missing = flexible
-d) 3 lines missing = fluid
-e) 4 lines missing = very fluid
+d) 3 lines missing = structured
+e) 4 lines missing = highly structured
 
 3. Fluidity meaning:
 
