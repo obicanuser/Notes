@@ -6,7 +6,7 @@ c) 2 attackers = counter
 d) 3 attackers = standard
 e) 4 attackers = control
 f) 5 attackers = atacking
-g) 6 attackers = pverload
+g) 6 attackers = overload
 
 2. Set fluidity depending on horizontal lines missing in formation (Don't forget SW)
 
